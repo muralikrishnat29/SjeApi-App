@@ -1,0 +1,10 @@
+F:\SjeApi\bin\release\netcoreapp2.0\SjeApi.deps.json
+F:\SjeApi\bin\release\netcoreapp2.0\SjeApi.runtimeconfig.json
+F:\SjeApi\bin\release\netcoreapp2.0\SjeApi.runtimeconfig.dev.json
+F:\SjeApi\bin\release\netcoreapp2.0\SjeApi.dll
+F:\SjeApi\bin\release\netcoreapp2.0\SjeApi.pdb
+F:\SjeApi\obj\release\netcoreapp2.0\SjeApi.csproj.CoreCompileInputs.cache
+F:\SjeApi\obj\release\netcoreapp2.0\SjeApi.AssemblyInfoInputs.cache
+F:\SjeApi\obj\release\netcoreapp2.0\SjeApi.AssemblyInfo.cs
+F:\SjeApi\obj\release\netcoreapp2.0\SjeApi.dll
+F:\SjeApi\obj\release\netcoreapp2.0\SjeApi.pdb
