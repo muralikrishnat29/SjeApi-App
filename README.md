@@ -9,4 +9,5 @@ Future Enhancements:
 1. User authentication and authorisation module addition
 2. Docker support for different runtimes
 3. CORS support wherever required
+4. Global Exception Handling
 
