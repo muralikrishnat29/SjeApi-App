@@ -1,0 +1,29 @@
+{
+  "Logging": {
+    "IncludeScopes": false,
+    "Debug": {
+      "LogLevel": {
+        "Default": "Warning"
+      }
+    },  
+    "Console": {
+      "LogLevel": {
+        "Default": "Warning"
+      }
+    }
+  },
+  "DatabaseSettings": {
+      "usersdb":{
+          "Environment":"Production",
+          "HostingEnvironment":"dummy_value2",
+          "UserName":"dummy_value",
+          "Password":"dummy_value"
+      },  
+      "productsdb":{
+          "Environment":"Production",
+          "HostingEnvironment":"dummy_value",
+          "UserName":"dummy_value",
+          "Password":"dummy_value"
+      }
+    }
+}
