@@ -10,4 +10,5 @@ Future Enhancements:
 2. Docker support for different runtimes
 3. CORS support wherever required
 4. Global Exception Handling
+5. Add DI for Data Access Classes
 
